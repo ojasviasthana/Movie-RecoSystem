@@ -1,0 +1,3 @@
+echo "* text eol=lf" > .gitattributes
+git add .gitattributes
+git commit -m "Force LF line endings"
